@@ -1,0 +1,10 @@
+——Student Profile——
+
+Name: Kobe Small
+
+Major/minor: Copmuter Science 
+
+Programming experience: 2 years 
+
+What do you expect to learn in this course?
+ a introduction into computer science and basics of c++ coding 

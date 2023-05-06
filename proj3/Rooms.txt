@@ -1,0 +1,7 @@
+
+Main hall,flowers
+Laundry room,empty
+Library,Diary
+Kitchen,Knife
+Bedroom,Safe
+Dinning room,Letter

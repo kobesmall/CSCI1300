@@ -1,0 +1,3 @@
+Special Deluxe Toaster,25.25,Home Appliances
+Dell Laptop,999.99,Electronics
+Burn-Ye-Toast Toaster,11.75,Home Appliances
